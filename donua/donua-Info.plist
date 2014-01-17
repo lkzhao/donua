@@ -4,10 +4,25 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>dkp</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>appIcon</string>
+			<key>CFBundleTypeName</key>
+			<string>Donua Keywords Pack</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+	</array>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIconFile</key>
-	<string></string>
+	<string>appIcon</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.mochaka.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -26,11 +41,37 @@
 	<string>public.app-category.productivity</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>${MACOSX_DEPLOYMENT_TARGET}</string>
+	<key>LSUIElement</key>
+	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2013 mochaka. All rights reserved.</string>
+	<string>Copyright © 2013 YI LUN ZHAO. All rights reserved.</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+				<string>public.content</string>
+				<string>com.apple.property-list</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Donua Keywords Pack</string>
+			<key>UTTypeIconFile</key>
+			<string>appIcon</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.mochaka.dkp</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>dkp</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
