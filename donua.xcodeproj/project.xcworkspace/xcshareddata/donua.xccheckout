@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A46DD2CF-A233-40DE-A70D-382789D463F5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>donua</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE317B3F-21BF-4048-955C-6C905A3C1DA3</key>
+		<string>https://github.com/lukezhao321/donua.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>donua.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE317B3F-21BF-4048-955C-6C905A3C1DA3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lukezhao321/donua.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE317B3F-21BF-4048-955C-6C905A3C1DA3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE317B3F-21BF-4048-955C-6C905A3C1DA3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>donua2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -724,7 +724,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = donuaHelperApp/donuaHelperApp.entitlements;
 				CODE_SIGN_IDENTITY = "Developer ID Application";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "";
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "donuaHelperApp/donuaHelperApp-Prefix.pch";
@@ -740,7 +740,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = donuaHelperApp/donuaHelperApp.entitlements;
 				CODE_SIGN_IDENTITY = "Developer ID Application";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "";
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "donuaHelperApp/donuaHelperApp-Prefix.pch";
